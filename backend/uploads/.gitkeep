@@ -1,0 +1,3 @@
+# Placeholder kept so the uploads directory exists in version control.
+# Real profile photos and resumes are written here at runtime and are ignored
+# by git (see .gitignore). Uploaded files are excluded from the project ZIP.
